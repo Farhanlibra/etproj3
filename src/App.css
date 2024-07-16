@@ -171,6 +171,7 @@
   background-color: rgb(109, 101, 90);
   height: auto;
   column-gap: 10px;
+  width: 100%;
 }
 
 .review hr{
@@ -475,6 +476,19 @@ jh{
   width: 500px;
   
 }
+.review{
+  background-color: rgb(109, 101, 90);
+  height: auto;
+  column-gap: 10px;
+  width: 100%;
+}
+
+.review hr{
+  margin-left: 42px;
+  border: 2px solid blue;
+  width: 300px;
+}
+
 
 }
 
