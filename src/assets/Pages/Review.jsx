@@ -159,11 +159,7 @@ const Review = () => {
             World of Grammar.
           </p>
           <button
-            style={{
-              textAlign: "center",
-              marginLeft: "600px",
-              marginBottom: "30px",
-            }}
+            
             className="btn btn-primary"
           >
             Get It Now
