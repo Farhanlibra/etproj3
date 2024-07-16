@@ -484,6 +484,10 @@ jh{
   border: 2px solid blue;
   width: 270px;
 }
+.try hr, button{
+  margin-left: 0px;
+  width: 300px;
+}
 
 
 }
