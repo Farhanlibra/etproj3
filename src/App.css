@@ -470,7 +470,7 @@ jh{
   height: auto;
   
 }
-.review p hr{
+.review p, hr{
   text-align: left;
   width: 500px;
   
