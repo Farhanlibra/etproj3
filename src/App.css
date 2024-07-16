@@ -466,11 +466,7 @@ jh{
   top: 200px;
   left: 150px;
 }
-.review{
-  width: 100%;
-  height: auto;
-  
-}
+
 .review p, hr{
   text-align: left;
   width: 500px;
@@ -480,11 +476,11 @@ jh{
   background-color: rgb(109, 101, 90);
   height: auto;
   column-gap: 10px;
-  width: 100%;
+  width: auto;
 }
 
 .review hr{
-  margin-left: 42px;
+  margin-left: 0px;
   border: 2px solid blue;
   width: 300px;
 }
